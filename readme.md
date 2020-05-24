@@ -47,7 +47,7 @@ $day2 = new Weekend();
 
 ## Running the Tests
 
-To run the tests, you can either call the `tests.php` file directly as an argument to <abbr>PHP</abbr> or make the file executable and run it directly (as it uses a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix) line):
+To run the tests, you can either call the `tests.php` file directly as an argument to <abbr>PHP</abbr> or make the file executable and run it directly as it uses a [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix) ) line:
 
 ```shell
 php ./tests.php
